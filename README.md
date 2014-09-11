@@ -9,7 +9,7 @@ Goals
 
 One of the primary goals of this project is to provide resources to help 
 beginners learn in an effective way. We're not about providing specific 
-solutions to projects, but instead we want to provide you with the skills to 
+solutions to problems, but instead we want to provide you with the skills to 
 discover those solutions yourself. 
 
 Another goal is to help contributors – developers who are answering questions –
