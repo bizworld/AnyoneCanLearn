@@ -13,7 +13,7 @@ solutions to problems, but instead we want to provide you with the skills to
 discover those solutions yourself. 
 
 Another goal is to help contributors – developers who are answering questions –
-do so in a constructive way. *How* we say something is just as important as 
+to do so in a constructive way. *How* we say something is just as important as 
 *what* we say. This is especially true on the Internet and over media like 
 Twitter, where nuance is difficult to convey. 
 
